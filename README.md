@@ -25,12 +25,21 @@
   <img src="https://img.shields.io/badge/MySQLWorkbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<!-- GitHub Stats com bolinhas preenchendo -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neveslivia&show_icons=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&bg_color=303030&text_color=ffffff&hide_title=false" />
-</div>
-
-<!-- Cobrinha personalizada com fundo cinza -->
+<!-- Github Stars e Stats -->
+<h2 align="center">⭐ Meu GitHub:</h2>
 <p align="center">
-  <img src="https://github.com/neveslivia/neveslivia/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="background-color:#303030;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=neveslivia&show_icons=true&theme=tokyonight&custom_title=Lívia&hide_border=false&bg_color=0D1117&title_color=7F00FF&icon_color=7F00FF" alt="github stats" />
 </p>
+
+
+<!-- Onde me encontrar -->
+<h2 align="center">🌎 Onde me encontrar:</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/l%C3%ADvia-neves-578762253//" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:liviarodriguesdev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
