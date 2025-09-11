@@ -10,7 +10,7 @@
 
 <!-- Sobre mim simples -->
 <p align="center">
-  Cursando Técnico em Desenvolvimento de Sistemas | SENAI Centro de Tecnologia da Informação
+  Técnica em Desenvolvimento de Sistemas | SENAI Centro de Tecnologia da Informação
 </p>
 
 <!-- Tecnologias que estou estudando -->
