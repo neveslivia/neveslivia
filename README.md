@@ -33,7 +33,9 @@
 <!-- Github Stars e Stats -->
 <h2 align="center">⭐ Meu GitHub:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neveslivia&show_icons=true&theme=tokyonight&custom_title=Lívia&hide_border=false&bg_color=0D1117&title_color=7F00FF&icon_color=7F00FF" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neveslivia&show_icons=true&include_all_commits=true&theme=tokyonight&custom_title=Lívia&hide_border=false&bg_color=0D1117&title_color=7F00FF&icon_color=7F00FF" alt="github stats" />
+</p>
+
 </p>
 
 
